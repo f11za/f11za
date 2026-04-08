@@ -1,5 +1,5 @@
 # Hi, I'm Fiza!
-<br>Computer Science Graduate | AI Researcher | Data Engineer<br>I am a results-driven Computer Science graduate passionate about bridging the gap between complex data and real-world impact. My work sits at the intersection of Healthcare AI, Autonomous Systems, and Cloud Automation.<br><br>I thrive on building end-to-end solutions—from architecting automated data pipelines to generating synthetic datasets for medical diagnostics.
+<br>Computer Science Graduate | AI Researcher | Data Engineer<br>I am a results-driven Computer Science graduate passionate about bridging the gap between complex data and real-world impact. My work sits at the intersection of Healthcare AI, Autonomous Systems, and Cloud Automation.<br><br>I thrive on building end-to-end solutions, from architecting automated data pipelines to building detailed dashboards.
 
 # 🚀 Current Focus
 Healthcare AI: Developed a synthetic dataset of 13,500+ samples using the FLAME model for abnormal head movement detection (Accepted for publication at GDRFA Dubai 2025).
